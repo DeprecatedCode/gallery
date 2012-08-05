@@ -1,0 +1,1 @@
+<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US" target="_blank" class="cc-icon">2012</a>

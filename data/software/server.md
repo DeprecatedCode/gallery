@@ -8,8 +8,8 @@ These applications handle networking, caching, and load balancing when deploying
 
 ## Uwsgi
 
-Details forthcoming.
+&laquo; coming soon &raquo;
 
 ## Varnish
 
-Details forthcoming.
+&laquo; coming soon &raquo;

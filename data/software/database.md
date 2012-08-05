@@ -4,20 +4,20 @@ These applications store and allow easy access to data in a variety of formats, 
 
 ## Mongo
 
-Details forthcoming.
+&laquo; coming soon &raquo;
 
 ## MySQL
 
-Details forthcoming.
+&laquo; coming soon &raquo;
 
 ## Neo4j
 
-Details forthcoming.
+&laquo; coming soon &raquo;
 
 ## Percona
 
-Details forthcoming.
+&laquo; coming soon &raquo;
 
 ## Redis
 
-Details forthcoming.
+&laquo; coming soon &raquo;

@@ -1,0 +1,131 @@
+/* Shared by Derek Payton under http://creativecommons.org/licenses/by/3.0/us/ */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter-Regular'), url('http://themes.googleusercontent.com/static/fonts/bitter/v3/SHIcXhdd5RknatSgOzyEkA.woff') format('woff');
+}
+@font-face {
+  font-family: 'Mate';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mate-Regular'), url('http://themes.googleusercontent.com/static/fonts/mate/v2/S8SUYNiDpYuON3fsSU0RXA.woff') format('woff');
+}
+@font-face {
+  font-family: 'Mate';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Mate Italic'), local('Mate-Italic'), url('http://themes.googleusercontent.com/static/fonts/mate/v2/PTJ7JUcI70SaH4ySt1dAmQ.woff') format('woff');
+}
+
+body {
+    background: #f8f8f8;
+    color: #222;
+    font-family: "Mate","Sabon LT Std","Hoefler Text","Palatino Linotype","Book Antiqua",serif;
+}
+
+h1, h2, h3 {
+    font-family: "Bitter", "Yanone Kaffeesatz", sans-serif;
+    margin-bottom: 0.35em;
+}
+
+h2 {
+    padding-bottom: 0.15em;
+    border-bottom: 3px double #666;
+    margin-bottom: -0.25em;
+}
+
+h3 {
+    margin-bottom: -0.5em;
+}
+
+a {padding: 0 1px; text-decoration: none; color: #369;}
+a:hover {color: #fff; background-color: #369;}
+
+p {
+    text-align: justify;
+    line-height: 1.4;
+}
+
+ul, ol {
+    font-size: 90%;
+    line-height: 1.6;
+    padding-left: 3em;
+}
+
+table {
+    margin: 0; padding: 0; border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding: 0;
+}
+
+div#page {
+    width: 580px;
+    margin: 0 auto;
+    padding: 0.5em;
+    position: relative;
+    z-index: 2;
+}
+
+div.follow-buttons {
+    box-shadow: inset 0 0 40px #e8e8e8;
+    border: 1px solid #ccc;
+    padding: 7px 9px 3px;
+}
+
+a.follow-icon {
+    padding: 0 8px;
+    background-repeat: no-repeat;
+    margin-right: 8px;
+}
+
+a.follow-icon:hover {
+    background-color: transparent;
+}
+
+a.cc-icon {
+    background-image: url(/static/cc.png);
+    background-repeat: no-repeat;
+    background-position: 2px 2px;
+    padding-left: 23px;
+    padding-bottom: 1px;
+    color: #000;
+    opacity: 0.5;
+}
+
+a.cc-icon:hover {
+    background-color: transparent;
+    opacity: 0.75;
+}
+
+div.fx-layer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 1;
+}
+
+div.fx-pt {
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 6px;
+}
+
+span.stars {
+    background-image: url(/static/star.png);
+    background-repeat: repeat-x;
+    color: transparent;
+    background-position: 0 10px;
+    font-family: Courier, 'Courier New';
+    font-weight: normal;
+    font-size: 26px;
+}

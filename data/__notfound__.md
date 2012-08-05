@@ -1,3 +1,3 @@
-# [Nate Ferrero](/) / Page Not Found
+# Page Not Found
 
-I haven't put anything interesting here, why not navigate to my [home page](/)?
+I haven't put anything interesting here, why not navigate to the [home page](/)?

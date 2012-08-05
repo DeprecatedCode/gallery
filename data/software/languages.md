@@ -4,7 +4,7 @@ These languages define syntaxes used to build software or compile HTML for prese
 
 ## Jade
 
-Details forthcoming.
+&laquo; coming soon &raquo;
 
 ## Markdown
 
