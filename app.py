@@ -99,7 +99,7 @@ def render(section, page):
             t = t + ' / ' + n.group(0)
         title = re.sub('<.+?>', '', t)
     else:
-        title = 'Untiled'
+        title = 'Untitled'
 
     # Generate HTML document
     return """
