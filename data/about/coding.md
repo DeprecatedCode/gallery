@@ -1,0 +1,3 @@
+# Coding
+
+I started by writing simple text and text-based graphical games on a good old Texas Instruments TI-92+ graphing calculator. Once I realized that computers could do even more, I was hooked! That's all for now...

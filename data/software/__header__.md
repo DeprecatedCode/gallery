@@ -1,3 +1,3 @@
-# [Nate Ferrero](/) / [Software](/software/)
+# [Nate Ferrero](/) / [Software Reference](/software/)
 
 {{follow-buttons}}
