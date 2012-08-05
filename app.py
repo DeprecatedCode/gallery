@@ -60,11 +60,14 @@ def haiku_end(x):
     return random.choice(haiku_end_lines)
 
 
+cwd = os.path.dirname(os.path.realpath(__file__))
+
+
 # Render method
 def render(section, page):
     # Load page head
     try:
-        f = open(os.path.join(os.getcwd(), 'data', '__head__.html'))
+        f = open(os.path.join(cwd, 'data', '__head__.html'))
         head = f.read()
         f.close()
     except:
@@ -122,7 +125,7 @@ def render(section, page):
 # Auto include a md file from within data/__include__
 def auto_include(match):
     try:
-        f = open(os.path.join(os.getcwd(), 'data', '__include__',
+        f = open(os.path.join(cwd, 'data', '__include__',
             match.group(1) + '.md'))
         content = f.read()
         f.close()
@@ -134,7 +137,7 @@ def auto_include(match):
 # Render a markdown file to HTML
 def render_file(section, page):
     try:
-        f = open(os.path.join(os.getcwd(), 'data', section, page + '.md'))
+        f = open(os.path.join(cwd, 'data', section, page + '.md'))
     except:
         return ""
     html = f.read()
