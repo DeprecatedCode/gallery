@@ -10,6 +10,10 @@ This is a non-exhaustive list of the software that I use when developing and dep
 * Percona
 * Redis
 
+### &raquo; [Environment Management](/software/environment)
+ * PIP
+ * Virtualenv
+
 ### &raquo; [Server Software](/software/server) 
 * Nginx
 * Uwsgi
