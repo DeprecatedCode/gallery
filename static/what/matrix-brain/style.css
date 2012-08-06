@@ -1,0 +1,30 @@
+div.mb #screen {
+  background: #eee;
+  padding: 1em 3em 3em;
+  color: #222;
+}
+div.mb .left {
+  float: left;
+}
+div.mb .right {
+  float: right;
+}
+div.mb .clear {
+  clear: both;
+  margin-top: -1px;
+  height: 1px;
+}
+div.mb table {
+  border-collapse: collapse;
+  font-size: 12px;
+}
+div.mb th, div.mb td {
+  border: 1px solid #aaa; 
+  padding: 4px 8px;
+}
+div.mb canvas {
+  background: #222; 
+  height: 400px;
+  width: 400px;
+  border: 1px solid #000;
+}

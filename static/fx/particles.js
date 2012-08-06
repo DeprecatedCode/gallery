@@ -76,6 +76,9 @@ nf.run = function() {
     }
 };
 $(function() {
+    if(window._fx_off) {
+        return;
+    }
     $('body').append(nf.l);
     window.setInterval(nf.run, 20);
 });

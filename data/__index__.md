@@ -1,4 +1,4 @@
-# [Nate Ferrero](/) / @haiku-start <br/>@haiku-mid <br/>@haiku-end
+# [Nate Ferrero](/) / Hi
 {{follow-buttons}}
 
 ### &raquo; [About](/about/)

@@ -20,46 +20,7 @@ file_handler = RotatingFileHandler('/var/log/nateferrero.gallery.log')
 file_handler.setLevel(logging.WARNING)
 app.logger.addHandler(file_handler)
 
-# Haiku sentences
-haiku_start_lines = [
-    'Hi, living being.',
-    'Hello, wise creature.',
-    'So, my good fellow.'
-]
-
-haiku_mid_lines = [
-    'Great reading and motor skills.',
-    'So handsome and still humble.',
-    'You write awesome Python code?',
-    'You did that nice thing that time.',
-    'You did not eat that cookie.',
-    'You left some ice cream for me.',
-    'You complimented someone.',
-    'You are not really not so bad.',
-    'Applause for being awesome.',
-    'You are using a browser.',
-    'You are on the internet.'
-]
-
-haiku_end_lines = [
-    'I think I like you.',
-    'Keep up the good work.',
-    'What a cool story.'
-]
-
-
-def haiku_start(x):
-    return random.choice(haiku_start_lines)
-
-
-def haiku_mid(x):
-    return random.choice(haiku_mid_lines)
-
-
-def haiku_end(x):
-    return random.choice(haiku_end_lines)
-
-
+# Current app directory
 cwd = os.path.dirname(os.path.realpath(__file__))
 
 
@@ -84,11 +45,6 @@ def render(section, page):
     content = render_file(section, page)
     if content == "":
         content = render_file('', '__notfound__')
-
-    # Do haiku
-    content = re.sub("@haiku-start", haiku_start, content)
-    content = re.sub("@haiku-mid", haiku_mid, content)
-    content = re.sub("@haiku-end", haiku_end, content)
 
     page = "%s%s%s%s%s" % (top_header, header, content, footer, top_footer)
 
