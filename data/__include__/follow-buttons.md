@@ -3,16 +3,16 @@
     <table>
         <tr>
             <td>
-                <a target="_blank" class="follow-icon" href="https://facebook.com/NateFerrero" style="background-image: url(/static/facebook.png);"></a>
+                <a title="Nate Ferrero on Facebook" target="_blank" class="follow-icon" href="https://facebook.com/NateFerrero" style="background-image: url(/static/facebook.png);"></a>
             </td>
             <td>
-                <a target="_blank" class="follow-icon" href="https://plus.google.com/100145151089603808622/posts" style="background-image: url(/static/google-plus.png);"></a>
+                <a title="Nate Ferrero on Google+" target="_blank" class="follow-icon" href="https://plus.google.com/100145151089603808622/posts" style="background-image: url(/static/google-plus.png);"></a>
             </td>
             <td>
-                <a target="_blank" class="follow-icon" href="http://www.linkedin.com/in/nateferrero" style="background-image: url(/static/linkedin.png);"></a>
+                <a title="Nate Ferrero on LinkedIn" target="_blank" class="follow-icon" href="http://www.linkedin.com/in/nateferrero" style="background-image: url(/static/linkedin.png);"></a>
             </td>
             <td>
-                <a target="_blank" class="follow-icon" href="https://github.com/NateFerrero/" style="background-image: url(/static/github2.png);"></a>
+                <a title="Nate Ferrero on GitHub" target="_blank" class="follow-icon" href="https://github.com/NateFerrero/" style="background-image: url(/static/github2.png);"></a>
             </td>
             <td width="500">
                 <a href="https://twitter.com/NateFerrero" class="twitter-follow-button" data-show-count="false">Follow @NateFerrero</a>
