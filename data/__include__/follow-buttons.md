@@ -1,4 +1,3 @@
-<!-- Nate Ferrero's Follow Buttons -->
 <div class="follow-buttons">
     <table>
         <tr>

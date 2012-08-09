@@ -1,4 +1,5 @@
 # [Nate Ferrero](/) / Hi
+
 {{follow-buttons}}
 
 ### &raquo; [About](/about/)
