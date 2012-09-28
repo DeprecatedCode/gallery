@@ -4,5 +4,5 @@ As a Senior Software Developer I implement and help define specifications for me
 ### &raquo; <a href="http://momentumapp.co">Momentum OS, Inc.</a> (Jan 2010 &mdash; May 2012)
 As an application developer and then lead developer, I had a primary role in building a PHP application framework called <a href="https://github.com/EvolutionSDK/EvolutionSDK">EvolutionSDK</a> that is currently being used in production applications.
 
-### &raquo; Ancient History
-Prior to working at Momentum I was a freelance designer and web developer with several small clients.
+### &raquo; Basics (May 1989 &mdash; Dec 2009)
+During college, I was a physics and math tutor, and after graduating worked as a freelance designer and web developer with several small clients.

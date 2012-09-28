@@ -4,7 +4,7 @@ Concepts that I have interest in, physical products I wish existed, among others
 
 ## Computing Hardware
 
-### &raquo; Grip and Pan Input Device (Grapid)
+### &raquo; Grip and Pan Input Device
 
 Device consists of an two-dimensional plane upon which a top-shaped joystick is suspended. Motion in two dimensions is performed much like a typical computer mouse. Instead of clicking a button, there are three vertical levels provided for:
 
@@ -20,7 +20,7 @@ That is where the similarities to a standard mouse end. The joystick should supp
 
 My bathroom sink's poor shape is on a quest to deform my spine and detract from my overall enjoyment of life. I would much prefer a height-adjustable sink with the following characteristics:
 
-1. Water available at the correct (variable) height so I can wash my hands without bending over.
+1. Water available at the correct (variable) height so anyone can wash my hands without straining spine.
 2. Basin may also move vertically at a slower relative speed than the faucet to facilitate wider and narrower gaps as needed.
 3. Around the basin there is a secondary collection basin flange.
 4. Faucet not directly connected to the basin to facilitate easy cleaning.
@@ -28,16 +28,8 @@ My bathroom sink's poor shape is on a quest to deform my spine and detract from 
 
 ### Composable Sofa
 
-The average sofa is too heavy, too bulky, and good for just a few years before it ends up on the side of the road. I would like to own a sofa that can be disassembled and reassembled in just a few minutes. The side arms can be pre-built, with receptors for the horizontal support structures. This idea is very simple but poorly executed in real life.
+The average sofa is too heavy, too bulky, and good for just a few years before it ends up on the side of the road. I would like a sturdy sofa that can be disassembled and reassembled in just a few minutes..
 
 ### Automatic Shower
 
-Why do our cars go through the carwash but we ourselves have to take showers? Showers are a large waste of time and water, and I would like to improve the process. A vertical cylinder with a ring that surrounds you and has 36 water jets pointing inwards and moves on a rack and pinion movement goes down to your feet and back up over your head a total of 5 times:
-
-1. Power clean + soap
-2. Power rinse
-3. Any body spray / conditioner
-4. Soft rinse
-5. Warm air dry
-
-That way when you get out of the shower, you will always be comfortable and not leave a trail of water all over.
+Why do our cars go through the carwash but we ourselves have to take manual showers? CRAZY RIGHT?! All we need is a vertical cylinder with a ring that surrounds you and has 36 water jets pointing inwards and moves on a rack and pinion movement!!!

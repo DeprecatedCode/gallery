@@ -1,7 +1,5 @@
 # Experiments
 
-Usually done over a caffeine-fueled zealous all-nighter or two, here are all the things I started working on before considering if they were useful or not.
-
 ## Artificial Intelligence
 
 ### &raquo; Visual Matrix Brain

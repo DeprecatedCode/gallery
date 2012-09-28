@@ -1,6 +1,6 @@
-# Foundation
+# Words
 
-These great persons present and past inspire me to make each day better than the last. While in practice life may beset us oft, a continual reminder of some key concepts surely plays a part in making lasting global positive change possible.
+Here are some quotes that I think everyone should spend a fair amount of time considering.
 
 ## Progress
 

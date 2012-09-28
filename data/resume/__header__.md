@@ -1,3 +1,3 @@
-# [Nate Ferrero](/) / [Resume](/resume/)
+# [Nate Ferrero](/) / [Experience](/resume/)
 
 {{follow-buttons}}

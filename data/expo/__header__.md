@@ -1,3 +1,3 @@
-# [Nate Ferrero](/) / [Expo](/expo/)
+# [Nate Ferrero](/) / [Look!](/expo/)
 
 {{follow-buttons}}
