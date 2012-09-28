@@ -1,0 +1,57 @@
+body {
+  font-family: Verdana;
+  font-size: 11px;
+}
+
+.bar {
+  position: fixed;
+  background: #3c3c3c;
+}
+
+.top {
+  top: 0;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.top, .bottom {
+  left: 0;
+  right: 0;
+  height: 48px;
+}
+
+.left {
+  left: 0;
+  width: 200px;
+}
+
+.right {
+  right: 0;
+  width: 48px;
+}
+
+.left, .right {
+  top: 48px;
+  bottom: 48px;
+}
+.i-travel {
+  border: 1px solid red;
+  background-image: url(silver/plane.png);
+  background-repeat: no-repeat;
+}
+
+.actions {
+  list-style: none;
+  padding: 1em;
+}
+
+.actions > li {
+  display: inline-block;
+  padding: 60px 0 0;
+  text-align: center;
+  width: 80px;
+  background-position: 25px 20px;
+  color: #ccc;
+}
